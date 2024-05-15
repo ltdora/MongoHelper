@@ -1527,11 +1527,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\MongoHelper\\MongoHelper.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\MongoHelper\\MongoHelper.csproj",
       "projectName": "MongoHelper",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\MongoHelper\\MongoHelper.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\MongoHelper\\MongoHelper.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\MongoHelper\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\MongoHelper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

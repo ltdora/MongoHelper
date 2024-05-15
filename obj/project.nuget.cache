@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nbx/NzN6iW5zvjWQcJ04LJvi6U12Z+DKRswuw4KhLAVwMfVbfwnFznSY41BjO3ERooNyY+AXFveb3wnwdxoTSw==",
+  "dgSpecHash": "43Qjxoko/sCCiDY2W1EFhfTyPfWc9L6V+h4na8EspQVMCrxyFOyKr4RidG5eTnVnoigkiCm4CNifbExG30YJ6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\MongoHelper\\MongoHelper.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\MongoHelper\\MongoHelper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
