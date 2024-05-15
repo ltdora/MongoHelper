@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MongoHelper", "MongoHelper.csproj", "{3F89C493-D104-43FB-A444-55168B31D002}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F89C493-D104-43FB-A444-55168B31D002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F89C493-D104-43FB-A444-55168B31D002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F89C493-D104-43FB-A444-55168B31D002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F89C493-D104-43FB-A444-55168B31D002}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36D6A08D-43D7-4DCE-AA9C-D553F2307B04}
+	EndGlobalSection
+EndGlobal
